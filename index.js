@@ -1,0 +1,1 @@
+console.log("JavaScript executed by external file!");
