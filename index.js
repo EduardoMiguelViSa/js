@@ -145,5 +145,3 @@
  * Add referenceto this file to the 
  * "index.html"
 */
-
-console.log("Hello from external JavaScript file");
